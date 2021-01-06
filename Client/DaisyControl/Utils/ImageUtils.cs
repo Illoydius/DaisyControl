@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Media.Imaging;
 using DaisyControl.Client.DaisyConnect.Managers;
-using DaisyControl.Common.DaisyUtils;
+using DaisyControl.Common.DaisyCommon;
 
 namespace DaisyControl.Client.DaisyConnect.Utils
 {

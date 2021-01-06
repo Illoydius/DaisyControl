@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Windows;
-using DaisyControl.Common.DaisyUtils.Managers;
+using DaisyControl.Common.DaisyCommon.Managers;
 
 namespace DaisyControl.Client.DaisyConnect.Managers
 {

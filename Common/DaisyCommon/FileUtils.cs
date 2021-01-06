@@ -1,6 +1,6 @@
 ﻿using System.IO;
 
-namespace DaisyControl.Common.DaisyUtils
+namespace DaisyControl.Common.DaisyCommon
 {
     public static class FileUtils
     {

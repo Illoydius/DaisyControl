@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace DaisyControl.Common.DaisyUtils.Managers
+namespace DaisyControl.Common.DaisyCommon.Managers
 {
     public static class LogManager
     {
